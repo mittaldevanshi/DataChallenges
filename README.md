@@ -1,2 +1,2 @@
 # DataChallenges
-These are data challenges sent to me by companies I have interviewed for in the past.
+Data Challenges are fun to do! I have compiled by approach towards some of the challenges.
